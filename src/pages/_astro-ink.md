@@ -1,4 +1,3 @@
-**Kuliner** adalah blog berisi tentang kegiatan petualang seru yang bermulai dari genggaman tangan menuju dunia yang luas terbentang di depan mata...     
-### Makan, Ngopi, Jalan-jalan!
-**Media Sosial:** Kakaroco88 // [@kakaroco88](https://twitter.com/kakaroco88)  // [kakaroco88](https://goo.gl/maps/jUkLmfpY52hsigEz6?g_st=ac)
-                
+**Kuliner** adalah sebuah perjalanan panjang yang berisikan tentang kegiatan petualang seru bersama kekasih yang bermulai dari genggaman tangan hingga menuju dunia yang luas terbentang di depan mata...     
+### Adventure, Jalan-jalan, Ngopi!
+**Media Sosial:** Kakaroco88 // [@Yt](https://youtube.com/kakaroco88) // [@Twitter](https://twitter.com/kakaroco88) // [@Local Guide Maps](https://maps.app.goo.gl/P94fxaDezFPe6Z3e8?g_st=ac)
