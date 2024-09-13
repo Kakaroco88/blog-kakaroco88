@@ -1,4 +1,4 @@
-**Astro-Ink** is a crisp, minimal, personal blog theme for Astro, that shows the capability of statically built sites - offering all the goodness and DX of the modern JS ecosystem without actually shipping any JS by default. And, above all...     
-### It's Open-Source!
-**Maintained By:** Aftab Alam // [@aftabbuddy](https://twitter.com/aftabbuddy)  // [one-aalam](https://github.com/one-aalam)
+**Kuliner** adalah blog berisi tentang kegiatan petualang seru yang bermulai dari genggaman tangan menuju dunia yang luas terbentang di depan mata...     
+### Makan, Ngopi, Jalan-jalan!
+**Media Sosial:** Kakaroco88 // [@kakaroco88](https://twitter.com/kakaroco88)  // [kakaroco88](https://goo.gl/maps/jUkLmfpY52hsigEz6?g_st=ac)
                 
