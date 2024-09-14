@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://astro-ink.vercel.app/sitemap-index.xml
+Sitemap: https://www.kakaroco88.com/sitemap-index.xml
