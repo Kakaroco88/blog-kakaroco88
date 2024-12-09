@@ -1,3 +1,3 @@
-**Kuliner** adalah sebuah perjalanan panjang yang berisikan tentang kegiatan petualang seru bersama kekasih yang bermulai dari genggaman tangan menuju dunia yang luas terbentang di depan mata...     
-### Adventure, Jalan-jalan, Ngopi!
+**Kakaroco88** penggunaan nama "kakaroco88" muncul dari keinginan untuk menciptakan identitas yang unik dan mudah diingat di dunia digital. Sebagai seorang local guide, YouTuber, TikToker dan content creator, nama ini mencerminkan karakter yang bersahabat dan selalu siap membantu orang lain dalam menemukan informasi yang bermanfaat.    
+### Local Guide Google Maps, Youtuber, Content Creator!
 **Media Sosial:** Kakaroco88 // [@Local Guide Maps](https://maps.app.goo.gl/P94fxaDezFPe6Z3e8?g_st=ac) // [@Yt](https://youtube.com/kakaroco88) 
