@@ -27,7 +27,7 @@ export const SITE = {
 	// Your site's detail?
 	name: "Kakaroco88",
 	title: "Kakaroco88",
-	description: "Local Guide Sejati Berjalan Setiap Hari, Datanglah Inspirasi",
+	description: "Berjalan Setiap Hari, Datanglah Inspirasi",
 	url: "https://astro-ink.vercel.app",
 	githubUrl: "https://github.com/Kakaroco88",
 	listDrafts: true,
