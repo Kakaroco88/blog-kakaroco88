@@ -26,7 +26,7 @@ export const NAV_ITEMS: NavItems = {
 export const SITE = {
 	// Your site's detail?
 	name: "Kakaroco88",
-	title: "Kakaroco88",
+	title: "kakaroco88",
 	description: "Berjalan Setiap Hari, Datanglah Inspirasi",
 	url: "https://astro-ink.vercel.app",
 	githubUrl: "https://github.com/Kakaroco88",
