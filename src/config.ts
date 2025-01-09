@@ -27,9 +27,9 @@ export const SITE = {
 	// Your site's detail?
 	name: "Kakaroco88",
 	title: "Kakaroco88",
-	description: "Berjalan Setiap Hari, Inspirasi Mendatangi",
-	url: "https://astro-ink.vercel.app",
-	githubUrl: "https://github.com/one-aalam/astro-ink",
+	description: "Berjalan Setiap Hari, Datanglah Inspirasi",
+	url: "https://blog-kuliner-kakaroco88.vercel.app/",
+	githubUrl: "https://github.com/Kakaroco88/blog-kakaroco88",
 	listDrafts: true,
 	image:
 		"https://raw.githubusercontent.com/one-aalam/astro-ink/main/public/astro-banner.png",
@@ -44,7 +44,7 @@ export const SITE = {
 	authorImage: "", // Example: https://pbs.twimg.com/profile_images/1272979356529221632/sxvncugt_400x400.jpg, https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png
 	// Author: Bio
 	authorBio:
-		"Crisp, minimal, personal blog theme for Astro. Crisp, minimal, personal blog theme for Astro. Crisp, minimal, personal blog theme for Astro",
+		"AuthorBio : Namaku Kakaroco88 berjalan setiap hari dan datanglah inspirasi",
 };
 
 // Ink - Theme configuration
